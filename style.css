@@ -1,0 +1,15 @@
+button {
+  width: 50px;
+  font-size: 12pt;
+}
+video {
+  width: 520px;
+}
+#videDiv {
+  background-color: black;
+  width: 520px;
+  padding: 20px;
+}
+#controls {
+  margin-top: 10px;
+}
